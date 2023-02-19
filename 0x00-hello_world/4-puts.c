@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - A program that print a line using the printf function
@@ -7,5 +6,5 @@
 int main (void)
 {
 puts("\"programming is like building a multilingual puzzle");
-retun (0);
+return (0);
 }
